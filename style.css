@@ -176,11 +176,11 @@ align-items: center;
     }
     
     .sponser-container {
-        width: 260px;
+        width: auto;
 /* height: 6077px; */
-        margin: 0px;
+        margin: auto;
         display: grid;
-        grid-template-columns: repeat(4,auto);
+        grid-template-columns: repeat(4,auto );
         
     }
     .sponser-container img{
